@@ -3,6 +3,7 @@ Is package (or server) that will turn your postgres database into RESTful API wi
 
 ## Todo
 - [ ] Support more query/filters, like field select and other filters
+- [ ] Support relationship on query
 - [ ] Json response directly from postgres
 - [ ] Add Authentication and authorization on endpoint layer
 - [ ] Add Example
